@@ -32,18 +32,18 @@ nav .logo p{
     text-transform: uppercase;
     font-family: arial;
 }
-    
+
 
 
 nav ul{
     float: right;
-    
+
 }
 
 nav ul li{
     display: inline-block;
     list-style: none;
-    
+
 
 }
 nav ul li a {
@@ -57,7 +57,7 @@ nav ul li a:hover{
     background-color: white;
 }
 
-.hero {
+.hero{
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
